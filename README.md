@@ -1,9 +1,5 @@
 # Hey 👋 I'm Divyanshu
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Divyanshu&fontSize=38&fontColor=38BDF8" />
-</p>
-
 ---
 
 ### 🌱 A little about me
@@ -53,11 +49,12 @@
 ### 🚀 A project I'm proud of
 
 **QR-Based Smart Project**
-A real-world focused QR-based system built with:
+A real-world focused project that **generates scannable QR codes for URLs** with:
 
-* Fast scanning & validation
-* Clean UI
-* Practical use-case driven design
+* ⚡ Fast QR generation
+* ✅ Instant URL validation
+* 🎨 Clean, responsive UI
+* 🧪 Practical, real-world use case driven design
 
 ---
 
