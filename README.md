@@ -15,15 +15,6 @@
 
 * ✅ **250+ problems solved** across platforms
 * ✅ Regular on **GeeksforGeeks & LeetCode**
-* ✅ Comfortable with:
-
-  * Arrays & Strings
-  * Recursion
-  * Searching & Sorting
-  * Linked Lists
-  * Stacks & Queues
-  * Basics of Dynamic Programming
-
 ---
 
 ### 🛠️ What I Work With
@@ -43,18 +34,6 @@
 **Backend:**
 
 `Node.js` `Express`
-
----
-
-### 🚀 A project I'm proud of
-
-**QR-Based Smart Project**
-A real-world focused project that **generates scannable QR codes for URLs** with:
-
-* ⚡ Fast QR generation
-* ✅ Instant URL validation
-* 🎨 Clean, responsive UI
-* 🧪 Practical, real-world use case driven design
 
 ---
 
