@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Divyanshu&fontSize=38&fontColor=38BDF8" />
 </p>
 
-<p align="center">
-  <img src="https://readme-fade-text.vercel.app/api/text?text=AI%20Enthusiast,Problem%20Solver,Backend%20Explorer,DSA%20Addict&fadeDuration=2000&pauseDuration=1200&fontSize=22&textColor=38BDF8" />
-</p>
-
 ---
 
 ### 🌱 A little about me
