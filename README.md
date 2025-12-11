@@ -13,8 +13,8 @@
 
 ### 🧠 Problem Solving Journey
 
-* ✅ **250+ problems solved** across platforms
-* ✅ Regular on **GeeksforGeeks & LeetCode**
+* ✅ **300+ problems solved** across platforms
+* ✅ Consistent on **GeeksforGeeks & LeetCode**
 ---
 
 ### 🛠️ What I Work With
