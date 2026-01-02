@@ -13,7 +13,7 @@
 
 ### 🧠 Problem Solving Journey
 
-* ✅ **300+ problems solved** across platforms
+* ✅ **1000+ DSA and CP problems solved** across platforms
 * ✅ Consistent on **GeeksforGeeks & LeetCode**
 ---
 
