@@ -1,62 +1,97 @@
-### Hey 👋 I'm Divyanshu
+<h1 align="center">Hey 👋 I'm Divyanshu</h1>
+
+<h3 align="center">
+  Curious Engineer | Problem Solver | Backend & AI Enthusiast
+</h3>
+---
+
+## 🌱 About Me
+
+- 🚀 I love **building real-world systems**, not just demo projects  
+- 🧠 **Problem solving** is part of my daily routine (DSA & CP)
+- ⚙️ Curious about **backend systems, databases, and large-scale platforms**
+- 🤖 Exploring **AI & ML fundamentals from the ground up**
+- 📌 Strong believer in **learning by building, breaking, and fixing**
 
 ---
 
-### 🌱 A little about me
+## 🧠 Problem Solving Journey
 
-* I like **building things that actually work in the real world**
-* I enjoy **problem solving** a lot (DSA is kind of my daily routine)
-* I’m deeply curious about **AI, backend systems, and how large platforms work**
-* I believe in learning by **building projects, not just watching tutorials**
+- ✅ **1000+ DSA & Competitive Programming problems solved**
+- ✅ Active on **LeetCode, GeeksforGeeks & CodeChef**
+- ✅ Focus on **logic, optimization, and clean approaches**
 
----
-
-### 🧠 Problem Solving Journey
-
-* ✅ **1000+ DSA and CP problems solved** across platforms
-* ✅ Consistent on **GeeksforGeeks & LeetCode**
----
-
-### 🛠️ What I Work With
-
-**Languages I use:**
-
-`C` `C++` `Python` `JavaScript`
-
-**Databases I explore:**
-
-`MySQL` `MongoDB`
-
-**Web side:**
-
-`HTML` `CSS (Flexbox + Grid)` `Vanilla JS`
-
-**Backend:**
-
-`Node.js` `Express`
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Divyanshu227&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🐍 Python Libraries I Use / Explore
+## 🛠️ Tech Stack
 
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
-(Currently exploring ML & data workflows alongside core programming)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+</p>
+
+### 🌐 Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 🧪 Python & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
 
 ---
 
-### 🎯 What I’m focused on right now
+## 🎯 Current Focus
 
-* Backend engineering in depth
-* Understanding how **databases scale**
-* Learning **AI fundamentals from the ground up**
-* Getting better at **writing clean, maintainable code**
-
----
-
-### ✨ My mindset
-
-> *I don’t just want to "learn tech" — I want to understand how real systems are built, secured, optimized, and scaled.*
+- 🔍 Backend Engineering (deep dive)
+- 🧱 How **databases scale & optimize**
+- 🤖 AI fundamentals + data workflows
+- ✨ Writing **clean, maintainable, production-quality code**
 
 ---
 
-⭐ Thanks for stopping by — feel free to explore my repos!
+## 🧠 Engineering Mindset
+
+> *I don’t just want to learn tech — I want to understand how real systems are built, secured, optimized, and scaled.*
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshu227&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p>
+  <a href="https://github.com/Divyanshu227">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyanshu-kumar-jha-7a0439327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for stopping by!**  
+Feel free to explore my repositories — feedback & collaboration are always welcome.
+
