@@ -21,7 +21,7 @@
 
 ## 🧠 Problem Solving Journey
 
-- ✅ **1100+ DSA & Competitive Programming problems solved**
+- ✅ **1200+ DSA & Competitive Programming problems solved**
 - ✅ Active on **LeetCode, GeeksforGeeks & CodeChef**
 - ✅ Focus on **logic, optimization, and clean approaches**
 
