@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+things+that+actually+work;1100%2B+DSA+%26+CP+problems+solved;Backend+Engineering+%7C+Databases+%7C+AI;Learning+by+Building%2C+not+watching" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+things+that+actually+work;1600%2B+DSA+%26+CP+problems+solved;Backend+Engineering+%7C+Databases+%7C+AI;Learning+by+Building%2C+not+watching" />
 </p>
 ---
 
@@ -21,7 +21,7 @@
 
 ## 🧠 Problem Solving Journey
 
-- ✅ **1200+ DSA & Competitive Programming problems solved**
+- ✅ **1600+ DSA & Competitive Programming problems solved**
 - ✅ Active on **LeetCode, GeeksforGeeks & CodeChef**
 - ✅ Focus on **logic, optimization, and clean approaches**
 
@@ -31,7 +31,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
 </p>
 
 ### 🌐 Web
@@ -41,7 +41,7 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ### 🧪 Python & Data
