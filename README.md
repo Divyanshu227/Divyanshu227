@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Divyanshu</h1>
 
 <h3 align="center">
-  Curious Engineer | Problem Solver | Backend & AI Enthusiast
+  Curious Engineer | Problem Solver | MERN Stack Developer | AI Enthusiast
 </h3>
 
 
