@@ -4,12 +4,6 @@
   Curious Engineer | Problem Solver | MERN Stack Developer | AI Enthusiast
 </h3>
 
-
-
-https://github.com/user-attachments/assets/a2757270-c382-489e-ac23-be67b5d02012
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+build+things+that+actually+work;1800%2B+DSA+%26+CP+problems+solved;Backend+Engineering+%7C+Databases+%7C+AI;Learning+by+Building%2C+not+watching" />
 </p>
