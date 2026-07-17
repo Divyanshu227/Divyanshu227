@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=I+build+things+that+actually+work;1900%2B+DSA+%26+CP+problems+solved;Backend+Engineering+%7C+Databases+%7C+AI;Learning+by+Building%2C+not+watching" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=I+build+things+that+actually+work;2000%2B+DSA+%26+CP+problems+solved;Backend+Engineering+%7C+Databases+%7C+AI;Learning+by+Building%2C+not+watching" alt="Typing animation" />
 </div>
 
 <br/>
