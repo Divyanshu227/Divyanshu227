@@ -214,6 +214,7 @@
   - <b>Key Focus:</b> Real-time communication, Full-Stack TypeScript
   - <b>Links:</b>
     - 🔗 <a href="https://github.com/Divyanshu227/SecureTalk">GitHub Repository</a>
+    - 🔗 <a href="https://secure-talk-eight.vercel.app/">Live</a>
 </details>
 
 <br/>
